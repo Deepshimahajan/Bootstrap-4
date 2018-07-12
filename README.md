@@ -1,4 +1,4 @@
-# Full-Stack-Web-and-Multiplatform-Mobile-App-Development
+# Full Stack Web and Multiplatform Mobile App Development
 
 ## Front-End Web UI Frameworks and Tools: Bootstrap 4
 
